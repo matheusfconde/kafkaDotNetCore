@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "99m4J4C8QLo//jtKJUBKSCsyvoneDaqD00r6bKR12ywqkRmg50FcUOoHWbxszKXKhjX3zvnZNhLlxTQuatNsmg==",
+  "success": true,
+  "projectFilePath": "C:\\_estudos\\kafkaDotNetCore\\Kafka.Consumer.Handler\\Kafka.Consumer.Handler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\confluent.kafka\\1.1.0\\confluent.kafka.1.1.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\librdkafka.redist\\1.1.0\\librdkafka.redist.1.1.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
